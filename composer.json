@@ -1,0 +1,16 @@
+{
+    "name": "neontribe/jira-trello",
+    "description": "A Bridge between Trello and Jira",
+    "type": "project",
+    "require": {
+        "mattzuba/php-trello": "*",
+        "chobie/jira-api-restclient": "2.0.x-dev"
+    },
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Toby Batch",
+            "email": "tobias@neontribe.co.uk"
+        }
+    ]
+}
